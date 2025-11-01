@@ -1,0 +1,5 @@
+key,label,root_need,relation_tendency,dependency,risk,merit,actions,reward
+outcome,Outcome（成果）,動きたい（実行・達成）,見えにくい（他人を忘れる）,行動依存（Doing依存）,自壊（Burnout）,実績証明：結果で信頼を得る,メタ認知（感情と事実を切り分ける）,Outcome指向：成果報酬
+relation,Relation（関係）,つながりたい（承認・安定）,求めすぎる（他人に依存）,関係依存（Relating依存）,支配（Control）,位置観察：人の動きを読む,曼荼羅表（関係構造を可視化）,Relation指向：承認報酬
+value,Value（意味）,創造したい（意味・構造）,離れやすい（他人に疲れる）,創造依存（Meaning依存）,孤立（Isolation）,創造展示：新しい概念を形にできる,他者交流（共感を再接続）,Value指向：意味報酬
+process,Process（設計）,設計したい（再現・最適化）,客観的（関係を“設計要素”として捉える）,構造依存（System依存）,冷淡化（Detachment）,再現設計：プロセスを体系化できる,チューニング時間（設計を遊び化する）,Process指向：設計報酬（改善・最適化に快感）
